@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728088246754",
+    "project_id": "staftapp",
+    "storage_bucket": "staftapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728088246754:android:a5e713a739218f56c821bb",
+        "android_client_info": {
+          "package_name": "com.wiuma.staft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728088246754-f5eg56omidf8abgsc0mu6c5spde74lbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbw2A1KkK8b2xJ1TOoertBZWgfPAbdJ1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728088246754-f5eg56omidf8abgsc0mu6c5spde74lbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

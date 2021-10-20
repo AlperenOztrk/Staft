@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Staft</string>
+    <string name="your_email">E-mail</string>
+    <string name="your_password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="your_name">Name Surname</string>
+    <string name="back">Back</string>
+    <string name="selectAvatar">Select an avatar</string>
+    <string name="emptyView">It\'s so deserted here because RRRR.</string>
+</resources>
